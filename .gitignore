@@ -6,6 +6,7 @@ install/
 *.swp
 *~
 .ycm_extra_conf.py
+.vscode/
 
 # Python
 *.pyc
